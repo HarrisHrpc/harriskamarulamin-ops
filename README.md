@@ -5,7 +5,7 @@
 </p>
 
 ###  About Me
-<p>- Currently learning building websites</p>
+<p>- Currently learning building websites using ASP.NET and NHibernate</p>
 <p>- Learned Data Visualization (Tableau) and Mobile Application Development (Flutter)</p>
 <p>- Reach me at <a href="mailto:harriskamarulamin@gmail.com">harriskamarulamin@gmail.com</a></p>
 
