@@ -1,4 +1,4 @@
-<h1 align="left">Sup, I'm harris amein!</h1>
+<h1 align="left">Sup, I'm harris harapeco!</h1>
 <h3 align="left">Ex IT Development Intern, Now a Software Tester Protege</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harriskamarulamin-ops&label=Profile%20views&color=0e75b6&style=flat" />
