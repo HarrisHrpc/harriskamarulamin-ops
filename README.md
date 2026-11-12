@@ -1,12 +1,14 @@
-<h1 align="left">Sup, I'm harris kamarulamin!</h1>
-<h3 align="left">IT Development Intern</h3>
+<h1 align="left">Sup, I'm harris amein!</h1>
+<h3 align="left">EX IT Development Intern, Now a Software Tester Protege</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harriskamarulamin-ops&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ###  About Me
-<p>- Currently learning building websites using ASP.NET and NHibernate</p>
-<p>- Learned Data Visualization (Tableau) and Mobile Application Development (Flutter)</p>
+<p>- Currently learning new languages to broaden my technical skills </p>p
+<p>- Learned building websites during internship using ASP.NET Core MVC and NHibernate</p>
+<p>- Also Learned this during studies: Data Visualization (Tableau), Object Oriented Programming (Java), Data Structure Algorithm (C++), Machine Learning (Python)  and Mobile Application Development (Flutter)</p>
+<p>- Open for collaboration on new creative projects</p>p
 <p>- Reach me at <a href="mailto:harriskamarulamin@gmail.com">harriskamarulamin@gmail.com</a></p>
 
 ###  Languages and Tools
